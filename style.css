@@ -1,0 +1,15 @@
+.block1 {
+    animation: ani .5s alternate;
+}
+
+@keyframes ani {
+    0% {
+        transform: translateX(1000px);
+    }
+    50% {
+
+    }
+    100% {
+
+    }
+}
